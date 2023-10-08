@@ -1,2 +1,1 @@
-ls: /no/such/file: No such file or directory
-./tester/run-tests.sh: line 23:  1492 Segmentation fault: 11  ./wish tests/3.in
+ls: cannot access '/no/such/file': No such file or directory
