@@ -1,0 +1,1 @@
+./tester/run-tests.sh: line 23:  1555 Illegal instruction: 4  ./wish tests/7.in

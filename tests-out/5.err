@@ -1,0 +1,2 @@
+An error has occurred
+./tester/run-tests.sh: line 23:  1525 Segmentation fault: 11  ./wish tests/5.in
